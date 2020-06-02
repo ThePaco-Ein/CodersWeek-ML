@@ -1,0 +1,5 @@
+How to explain your granny about ML:
+Machine Learning is like a newborn child without knowledge and it cannot talk yet. Since days go on, he start learning a few things like saying “mom” or “dad”. That ability of learning is machine learning. He accepts everything you teach him, even if it is wrong, but not for too long.
+Now that he goes to school, his knowledge will start increase with math, theory etc. This knowledge is a supervised learn because the child is learning now with a teacher.  When He get home, he must do his homework by his own; he must association his knowledge from the school to solve problems.  At the moment, he received his homework from the teacher, he will know with problems was correct o incorrect. 
+With this new experience, he will understand that it he get wrong will failed the exam, on the other hand, if he get good marks, he will have an award.
+Finally, let us change the child for a robot, the robot will have the capability to learn and solve problems. Machine learning can detect spam email or can recognize your face in a photo on Facebook, just as a child would do it. 
