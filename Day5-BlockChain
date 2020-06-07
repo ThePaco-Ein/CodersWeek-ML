@@ -1,0 +1,16 @@
+Write a blog explaining the features of the Ethereum BlockChain and how it is different from Bitcoin.
+
+Ethereum is a blockchain project with a cryptocurrency(Ether). One of the most paramount features is "smart contracts". As the name says 
+is a contract for people around the world even if we live in difference countries.We can programming this contractwith a programming
+language:Serpent or Solidity. 
+Ethereum "Gas" is  a unit that measures the amount of computational effort it will take to execute certain operations. Every operation that
+takes part in Ethereum(smart contract or transaction) requires some amount of gas. Every Mines get paid an amount in Ether which is 
+equivalentto the total amount of gas it took to execute a operation. The operation consists in validate new transactions and record them,
+it took 10 minutesto mine a block. Finally, Miners compete to solve a difficul mathematical problem based or cryptographic hash algorithm.
+ 
+Bitcoin and Ethereum are the most valuable crytocurrencies but their no the same. First, Ethereum has added a complete virtual machine
+language and processing capability embedded. Ethereum is capable of storing computer code applications that can use the CPU power going
+into the network to execute. If we talk about speed of transcations, Etherum is the one, their transcations typically settling in seconds.
+Bitcoin is limted to 1MB in size, on the other hand, in Ethereum, blocks are capped by the gas-limit. In Bitcoin, they use money. 
+
+In concluse, we can say that Bitcoin is like a digital money and Ethereum, smart contracts. Both are decentralized. 
